@@ -9,10 +9,29 @@
 </code></pre>
 ]]></content>
       <categories>
-        <category>Posts</category>
+        <category>Post</category>
       </categories>
       <tags>
         <tag>Projects</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ewb gardening workshop</title>
+    <url>/2025/01/23/ewb-gardening-workshop/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Wrong password !" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="9356fdb2752f1af0bf63a44d580894d56e4ed6f1d1b1d119946623e82d3fefd9">340c8e1526688ed6a03159089954ac24445a06485ca1f5a3818ca53e79a7313a</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Input password =></span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>Presentation</tag>
       </tags>
   </entry>
 </search>
