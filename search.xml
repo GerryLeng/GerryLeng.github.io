@@ -9,10 +9,10 @@
 </code></pre>
 ]]></content>
       <categories>
-        <category>Post</category>
+        <category>Posts</category>
       </categories>
       <tags>
-        <tag>Projects</tag>
+        <tag>Project</tag>
       </tags>
   </entry>
   <entry>
@@ -30,6 +30,9 @@
   </div>
 </div>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Assets</category>
+      </categories>
       <tags>
         <tag>Presentation</tag>
       </tags>
