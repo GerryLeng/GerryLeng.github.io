@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Beluga - A Helmet Design</title>
-    <url>/2025/01/21/beluga/</url>
-    <content><![CDATA[<p>This was a mini project that I did as part of the Term 1 design portfolio for the ES192 Engineering Design module, where I designed a helmet and eventually got a <strong>first class grade (78%)</strong>.</p>
-<p>Here are a few slides from the portfolio, section 3:<br><img src="https://github.com/gerryleng/LenxNotes/blob/master/img/beluga0.JPG?raw=true"><br><img src="https://github.com/gerryleng/LenxNotes/blob/master/img/beluga1.JPG?raw=true"></p>
-<pre><code>
-</code></pre>
-]]></content>
-      <categories>
-        <category>Post</category>
-      </categories>
-      <tags>
-        <tag>Projects</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>EWB Gardening Workshop</title>
     <url>/2025/01/23/ewb-gardening-workshop/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Wrong password !" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -32,6 +17,21 @@
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <tags>
         <tag>Presentation</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Beluga - A Helmet Design</title>
+    <url>/2025/01/21/beluga/</url>
+    <content><![CDATA[<p>This was a mini project that I did as part of the Term 1 design portfolio for the ES192 Engineering Design module, where I designed a helmet and eventually got a <strong>first class grade (78%)</strong>.</p>
+<p>Here are a few slides from the portfolio, section 3:<br><img src="https://github.com/gerryleng/LenxNotes/blob/master/img/beluga0.JPG?raw=true"><br><img src="https://github.com/gerryleng/LenxNotes/blob/master/img/beluga1.JPG?raw=true"></p>
+<pre><code>
+</code></pre>
+]]></content>
+      <categories>
+        <category>Post</category>
+      </categories>
+      <tags>
+        <tag>Projects</tag>
       </tags>
   </entry>
 </search>
