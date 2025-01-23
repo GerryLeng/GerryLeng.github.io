@@ -138,3 +138,7 @@
     background-color: #3eb8be;
     border-radius: 8px;
   }
+
+  #footer {
+    background: transparent !important;
+  }
