@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Beluga - A Helmet Design</title>
+    <url>/2025/01/21/beluga/</url>
+    <content><![CDATA[<p>This was a mini project that I did as part of the Term 1 design portfolio for the ES192 Engineering Design module, where I designed a helmet 2 days before the submition deadline and eventually got a <strong>first class grade (78%)</strong>. </p>
+<p>Here is what it looks like:<br><img src="https://github.com/gerryleng/LenxNotes/blob/master/img/beluga.png?raw=true"></p>
+<h2 id="Appendix"><a href="#Appendix" class="headerlink" title="Appendix"></a>Appendix</h2><p>My 2-stroke engine animation from section 1:</p>
+<div style="position: relative; padding-top: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/eD57jqZraEA" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
+]]></content>
+      <categories>
+        <category>Posts</category>
+      </categories>
+      <tags>
+        <tag>Project</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>EWB Gardening Workshop</title>
     <url>/2025/01/23/ewb-gardening-workshop0/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="The password you entered is incorrect. Please try again." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -23,30 +47,6 @@
       </categories>
       <tags>
         <tag>Presentation</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Beluga - A Helmet Design</title>
-    <url>/2025/01/21/beluga/</url>
-    <content><![CDATA[<p>This was a mini project that I did as part of the Term 1 design portfolio for the ES192 Engineering Design module, where I designed a helmet 2 days before the submition deadline and eventually got a <strong>first class grade (78%)</strong>. </p>
-<p>Here is what it looks like:<br><img src="https://github.com/gerryleng/LenxNotes/blob/master/img/beluga.png?raw=true"></p>
-<h2 id="Appendix"><a href="#Appendix" class="headerlink" title="Appendix"></a>Appendix</h2><p>My 2-stroke engine animation from section 1:</p>
-<div style="position: relative; padding-top: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    src="https://www.youtube.com/embed/eD57jqZraEA" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    referrerpolicy="strict-origin-when-cross-origin" 
-    allowfullscreen>
-  </iframe>
-</div>
-]]></content>
-      <categories>
-        <category>Posts</category>
-      </categories>
-      <tags>
-        <tag>Project</tag>
       </tags>
   </entry>
 </search>
